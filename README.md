@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aman Gupta</h1>
-<h3 align="center">A passionate fullStack developer from India and a Sophomore who loves exploring new things</h3>
+<h3 align="center">A passionate frontend developer from India and a Sophomore who loves exploring new things</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman18111625" alt="aman18111625" /></a> </p>
 
-- 🌱 I’m currently learning **learning Node.js**
+- 🌱 I’m currently learning **learning React.js and Node.js**
 
 - 💬 Ask me about **DataStructure And Algorithm and Frontend development**
 
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aman gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman gupta" height="30" width="40" /></a>
-<a href="https://instagram.com/guptaji997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guptaji997" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/guptaji_997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/guptaji_997/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aman18111625" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aman18111625" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aman_2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aman_2001" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/guptaboyaman143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="guptaboyaman143" height="30" width="40" /></a>
