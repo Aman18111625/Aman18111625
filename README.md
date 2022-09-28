@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aman Gupta . Glad to have you here</h1>
-<h3 align="center">A passionate frontend developer from India and a Sophomore who loves exploring new things</h3>
+<h3 align="center">A passionate Full-Stack developer from India and a Sophomore who loves exploring new things</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman18111625" alt="aman18111625" /></a> </p>
 
-- 🌱 I’m currently learning **learning React.js**
+- 🌱 I’m currently **Exploring Full-Stack Development**
 
 - 💬 Ask me about **DataStructure And Algorithm and Frontend development**
 
