@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Software Development Engineer | 2+ Years Experience in Scalable Web Applications</h3>
 
 <p align="left">
-  <a href="src="https://drive.google.com/file/d/1OjEj1U14wNa6HWyYWF42GtdYsl231aGr/view?usp=sharing"">
+  <a href="https://drive.google.com/file/d/1OjEj1U14wNa6HWyYWF42GtdYsl231aGr/view?usp=sharing">
     <img src="https://drive.google.com/file/d/1OjEj1U14wNa6HWyYWF42GtdYsl231aGr/view?usp=sharing" alt="aman18111625" />
   </a>
 </p>
