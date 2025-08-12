@@ -55,11 +55,11 @@
 - Contributed to i18n support for global deployments and automated Node.js APIs using Python.  
 
 <h3>🏆 Achievements & Highlights</h3>
-- **Star Performer** at Capillary Technologies (Q3 2024)  
-- **Institute Rank 4** on GeeksforGeeks & **Global Rank 200** in DSA  
-- Successfully upgraded React 16 to React 18 for 250+ global brands  
-- Improved Node.js API performance by **50%**  
-- Reduced flaky UI automation tests by **30%** and accelerated execution by **45%**  
+- **Star Performer** at Capillary Technologies (Q3 2024) </br>
+- **Institute Rank 4** on GeeksforGeeks & **Global Rank 200** in DSA </br>
+- Successfully upgraded React 16 to React 18 for 250+ global brands </br>
+- Improved Node.js API performance by **50%** </br>
+- Reduced flaky UI automation tests by **30%** and accelerated execution by **45%** </br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman18111625&show_icons=true&locale=en&layout=compact" alt="aman18111625" /></p>
 
