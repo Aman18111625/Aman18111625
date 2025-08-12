@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Gupta</h1>
 <h3 align="center">Full Stack Software Development Engineer | 2+ Years Experience in Scalable Web Applications</h3>
 
-<p align="left">
-  <a href="https://drive.google.com/file/d/1OjEj1U14wNa6HWyYWF42GtdYsl231aGr/view?usp=sharing">
-    <img src="https://drive.google.com/file/d/1OjEj1U14wNa6HWyYWF42GtdYsl231aGr/view?usp=sharing" alt="aman18111625" />
-  </a>
-</p>
-
 - 🌱 Currently working as **Software Development Engineer-1 at Capillary Technologies**
 - 💻 Skilled in **React.js, Node.js, Express.js, Redux-Saga, MongoDB, MySQL**
 - 🛠 Experienced in **Frontend & Backend Development, Performance Optimization, Scalable Architectures**
