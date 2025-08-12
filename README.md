@@ -12,7 +12,7 @@
 - 🛠 Experienced in **Frontend & Backend Development, Performance Optimization, Scalable Architectures**
 - 💬 Ask me about **DSA, Frontend Development, and Full Stack Engineering**
 - 📫 Reach me at **amangupta326519@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/1yoEIACSJui-6YgSkgDf3E2o39gZK2jX4/view?usp=sharing)
+- 📄 [My Resume](https://drive.google.com/file/d/10E7Vgws6GRpPdSoTE4JRaD42zRjMnC6W/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
