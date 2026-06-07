@@ -9,7 +9,7 @@
 - 🏆 **5× Capillary Award recipient** — 2× Star Award, 3× Spot Award
 - 💬 Ask me about **React, TypeScript, Node.js, System Design, DSA**
 - 📫 Reach me at **amangupta326519@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/1ezerP1xVskJsit2rCDILEqJwRxqky5KG/view?usp=drive_link)
+- 📄 [My Resume](https://drive.google.com/file/d/1OdnPNDRCcTltXq3KH54pXSfURrHcOZS2/view?usp=sharing)
 - 🌱 Currently levelling up: **Docker · Kubernetes · RabbitMQ · System Design at scale**
 
 ---
