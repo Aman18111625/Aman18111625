@@ -5,7 +5,7 @@
 
 - 🏢 **Software Development Engineer II (Frontend)** at [Capillary Technologies](https://www.capillarytech.com), Bengaluru *(Promoted May 2026)*
 - 🚀 Building enterprise CRM & customer engagement products generating **$72M+ annual revenue** for billion-dollar brands
-- ⚡ Delivered **20+ enterprise features** — React v16→v18 migration, WhatsApp/Zalo gateway integrations, journey orchestration
+- ⚡ Delivered **25+ enterprise features** — React v16→v18 migration, WhatsApp/Zalo gateway integrations, journey orchestration
 - 🏆 **5× Capillary Award recipient** — 2× Star Award, 3× Spot Award
 - 💬 Ask me about **React, TypeScript, Node.js, System Design, DSA**
 - 📫 Reach me at **amangupta326519@gmail.com**
